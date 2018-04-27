@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               nandareads1.github.io
-tagline:             'A Jekyll theme'
+title:               nandareads1
+tagline:             'nandareads1.github.io'
 description:         'A reserved <a href="http://nandareads1.github.io" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 http://google.com
 baseurl:             ''
@@ -14,8 +14,8 @@ paginate:            5
 
 # About/contact
 author:
-  name:              nandareads1.github.io
-  url:               https://twitter.com/mdo
+  name:              nandareads1
+  url:               https://twitter.com/nandareads1
   email:             nandareads1@gmail.com
 
 # Custom vars
